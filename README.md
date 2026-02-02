@@ -13,3 +13,5 @@ and then i modified it a little bit.
 Hope u enjoy!
 
 Fed9b7 - soft apricot
+
+![screenshot1](apricot1.png)

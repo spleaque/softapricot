@@ -15,3 +15,7 @@ Hope u enjoy!
 Fed9b7 - soft apricot
 
 ![screenshot1](apricot1.png)
+
+![screenshot2](apricot2.png)
+
+![screenshot3](apricot3.png)

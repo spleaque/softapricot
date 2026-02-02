@@ -11,3 +11,5 @@ as the base and other stuff is from https://catppuccin.com/
 and then i modified it a little bit.
 
 Hope u enjoy!
+
+Fed9b7 - soft apricot
